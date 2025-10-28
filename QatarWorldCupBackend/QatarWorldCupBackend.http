@@ -1,0 +1,6 @@
+@QatarWorldCupBackend_HostAddress = http://localhost:5123
+
+GET {{QatarWorldCupBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
